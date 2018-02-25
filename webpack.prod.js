@@ -79,7 +79,7 @@ module.exports = {
   performance: {
     hints: false
   },
-  devtool: 'source-map',
+  devtool: false,
   plugins: [
     new ExtractTextPlugin("static/css/app.[chunkhash].css"),
     new htmlWebpackPlugin({
