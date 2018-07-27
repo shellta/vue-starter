@@ -1,1 +1,1 @@
-# vue-starter
+# @deprecated
